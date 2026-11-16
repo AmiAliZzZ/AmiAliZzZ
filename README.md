@@ -34,7 +34,8 @@ const AmirAli = {
         "Node.js",
         "PHP",
         "HTML",
-        "CSS"
+        "CSS",
+        "C++",
     ],
     mindset: "Build. Break. Fix. Optimize. Repeat."
 };
